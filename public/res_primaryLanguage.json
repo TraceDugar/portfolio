@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello",
+      "description": "🙋‍♂ Hello, My name is Trace Dugar.  I am a former audio engineer 🔊, who has become a software developer 👨‍💻.  I decided to come into software development due to the need for software developers.  I feel as though I can bring some good ideas to the table especially whenever projects involve audio. The ideal environment would be in my at home studio, while doing software development in order to clean up audio if necessary.  I have also studied a bit of design at Loyola, and feel as though this helps whenever I am working on the UI of a page. ✨",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,26 +11,26 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Salmon Cookies",
+        "startDate": "2022",
+        "description": "A website that is being built for a ficitonsal international business that sells salmon shaped cookies that contain salmon in them.  This was done using vanilla javascript, HTML and CSS.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/AboutSection.png",
+          "images/portfolio/animal-shelter/SalesPage.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
