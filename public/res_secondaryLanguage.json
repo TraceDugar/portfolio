@@ -12,42 +12,45 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+      "title": "Biscuits au saumon",
+      "startDate": "2022",
+      "description": "Un site Web en cours de construction pour une entreprise internationale fictive qui vend des biscuits en forme de saumon contenant du saumon. Cela a été fait en utilisant du javascript vanille, HTML et CSS.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/animal-shelter/AboutSection.png",
+        "images/portfolio/animal-shelter/SalesPage.png"
       ],
-      "url": "",
+      "url": "https://github.com/TraceDugar/cookie-stand",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-html5-plain",
+          "name": "HTML"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-css3-plain",
+          "name": "CSS"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         }
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+      "title": "Canard étrange",
+      "startDate": "2022",
+      "description": "La société Odd Duck Products m'a engagé pour fournir une application qui permettrait à ses clients de voter sur leurs produits préférés en fonction d'ensembles aléatoires de trois. Ils ne voulaient pas de doublons ou d'articles apparaissant dos à dos afin d'atténuer les biais dans l'application.",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/photography/Odd_Duck_SS.png"
       ],
-      "url": "https://github.com",
+      "url": "https://github.com/TraceDugar/odd-duck",
       "technologies": [
         {
-          "class": "devicon-react-original",
-          "name": "React"
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
         },
         {
           "class": "devicon-javascript-plain",
@@ -82,35 +85,40 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - obecnie",
+      "company": "Code Fellows",
+      "title": "Étudiant en développement logiciel",
+      "years": "08.2022 - cadeau",
       "mainTech": [
-        "Angular 8/9/10"
+        "JavaScript"
       ],
       "technologies": [
-        "REST API",
-        "RxJS",
+        "HTML 5",
+        "CSS3",
         "JavaScript",
         "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        "Angular Material"
+        "React",
+        "Git",
+        "Ubuntu",
+        "Miro",
+        "Giithub"
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Stażystka",
-      "years": "01.2018 - 09.2019",
+      "company": "Free-lance",
+      "title": "Producteur",
+      "years": "01.2017 - 08.2022",
       "mainTech": [
-        "Angular 7/8"
+        "Avid Protools"
       ],
       "technologies": [
-        "REST API",
-        "RxJS",
-        "Swagger",
-        "JavaScript",
-        "DHTMLX Gantt"
+        "Davinci Resolve",
+        "Logic Pro",
+        "Traitement du signal analogique",
+        "Traitement numérique du signal",
+        "Mixage audio",
+        "Procreate",
+        "Photo Editing",
+        "Adobe Lightroom"
       ]
     }
   ]
