@@ -34,11 +34,12 @@ header {
 	height: 520px;
 	min-height: 450px;
 	width: 100%;
+	color: goldenrod;
 	background-size: cover;
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-image: url('assets/Screenshot 2022-10-23 190258.png');
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -60,6 +61,9 @@ header .nav {
 @keyframes octocat-wave {0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}
 
 .language-icon {
+	margin-top: 5px;
+	margin-left: 15px;
+	margin-right: 15px;
 	font-size: 50px;
 	cursor: pointer;
 }
@@ -95,10 +99,14 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: #00d1b5;
+	background-color: black;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
-	width: 100%;
+	width: 11%;
+	border-radius: 20px;
+	padding-bottom: 5px;
+	
 }
 
 .slider-image {
@@ -120,7 +128,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: goldenrod;
 	overflow: hidden;
 }
 
@@ -231,7 +239,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #00d1b5;
 }
 
 .experience-icon {
@@ -245,7 +253,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #AE944F !important;
+	background-color: #ff0404 !important;
 	color: white;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -256,7 +264,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
+	background-color: goldenrod!important;
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -353,7 +361,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background:  #00d1b5;
 	padding-bottom: 5%;
 }
 
@@ -408,7 +416,7 @@ header h1 {
 
 .skill-icon {
 	font-size: 180%;
-	color: white;
+	color: goldenrod;
 	text-align: center;
 	position: relative;
 }
@@ -419,7 +427,7 @@ footer {
 	width: 100%;
 	overflow: hidden;
 	font-size: 14px;
-	color: white;
+	color: goldenrod;
 	position: relative;
 	text-align: center;
 }
@@ -431,7 +439,7 @@ footer a:visited {
 
 footer a:hover,
 footer a:focus {
-	color: #fff;
+	color: #16ffe0;
 }
 
 .social-links {

@@ -18,7 +18,7 @@
           "images/portfolio/animal-shelter/AboutSection.png",
           "images/portfolio/animal-shelter/SalesPage.png"
         ],
-        "url": "",
+        "url": "https://github.com/TraceDugar/cookie-stand",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -35,18 +35,21 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Odd Duck",
+        "startDate": "2022",
+        "description": "The company Odd Duck Products, contracted me to deliver an app which would allow their customers to vote on their favorite products based upon random sets of three.  They did not want duplicates or the item items showing up back to back in order to mitigate bias in the app.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/Odd_Duck_SS.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/TraceDugar/odd-duck",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
             "class": "devicon-javascript-plain",
@@ -81,37 +84,40 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Software Development Student",
+        "years": "08.20222 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML 5",
+          "CSS3",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React",
+          "Git",
+          "Ubuntu",
+          "Miro",
+          "Giithub"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Freelance",
+        "title": "Producer",
+        "years": "01.2017 - 08.2022",
         "mainTech": [
-          "Angular 7/8"
+          "Avid Protools"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Davinci Resolve",
+          "Logic Pro",
+          "Analog Signal Processing",
+          "Digital Sginal Processing",
+          "Audio Mixing",
+          "Procreate",
+          "Photo Editing",
+          "Adobe Lightroom"
         ]
       }
     ]
