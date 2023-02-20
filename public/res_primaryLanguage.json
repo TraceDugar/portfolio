@@ -13,7 +13,7 @@
       {
         "title": "Salmon Cookies",
         "startDate": "2022",
-        "description": "A website that is being built for a ficitonal international business that sells salmon shaped cookies that contain salmon in them.  This was done using vanilla javascript, HTML and CSS.",
+        "description": "A website that is built for a ficitonal international business that sells salmon shaped cookies that contain salmon in them.  This was done using vanilla Javascript, HTML and CSS.",
         "images": [
           "images/portfolio/salmon-cookies/AboutSection.png",
           "images/portfolio/salmon-cookies/SalesPage.png"
@@ -112,7 +112,7 @@
       {
         "company": "Code Fellows",
         "title": "Software Development Student",
-        "years": "08.20222 - present",
+        "years": "08.20222 - 02.2023",
         "mainTech": [
           "JavaScript"
         ],
@@ -120,17 +120,24 @@
           "HTML 5",
           "CSS3",
           "JavaScript",
+          "Material UI",
+          "Mantine UI",
           "Bootstrap",
           "React",
-          "Git",
           "Ubuntu",
           "Miro",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Redux",
+          "Figma",
+          "Git",
           "Giithub"
         ]
       },
       {
         "company": "Freelance",
-        "title": "Producer",
+        "title": "Producer / Audio Engineer",
         "years": "01.2017 - 08.2022",
         "mainTech": [
           "Avid Protools"

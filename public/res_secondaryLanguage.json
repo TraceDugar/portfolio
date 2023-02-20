@@ -14,7 +14,7 @@
     {
       "title": "サーモンクッキー",
       "startDate": "2022",
-      "description": "鮭が入った鮭の形をしたクッキーを販売する架空の国際ビジネスのために構築されている Web サイト。これは、標準の JavaScript、HTML、および CSS を使用して行われました",
+      "description": "サーモンが入ったサーモンの形をしたクッキーを販売する架空の国際ビジネス用に作成された Web サイト。これは、標準の JavaScript、HTML、および CSS を使用して行われました。",
       "images": [
         "images/portfolio/salmon-cookies/AboutSection.png",
         "images/portfolio/salmon-cookies/SalesPage.png"
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "title": "Virtual E-Store",
+      "title": "バーチャル e ストア",
       "startDate": "2023",
       "description": "写真用の unsplash API と在庫用のサードパーティ API に接続された e コマース アプリ。 Redux ツールキット、Material UI、および以下にリストされているその他のテクノロジを使用します。.",
       "images": [
@@ -111,9 +111,9 @@
   ],
   "experience": [
     {
-      "company": "Code Fellows",
-      "title": "Étudiant en développement logiciel",
-      "years": "08.2022 - cadeau",
+      "company": "コードフェロー",
+      "title": "ソフトウェア開発学生",
+      "years": "08.2022 - 02.2023",
       "mainTech": [
         "JavaScript"
       ],
@@ -121,30 +121,37 @@
         "HTML 5",
         "CSS3",
         "JavaScript",
+        "Material UI",
+        "Mantine UI",
         "Bootstrap",
         "React",
-        "Git",
         "Ubuntu",
         "Miro",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Redux",
+        "Figma",
+        "Git",
         "Giithub"
       ]
     },
     {
-      "company": "Free-lance",
-      "title": "Producteur",
+      "company": "フリーランス",
+      "title": "プロデューサー / オーディオエンジニア",
       "years": "01.2017 - 08.2022",
       "mainTech": [
-        "Avid Protools"
+        "Avid Pro Tools"
       ],
       "technologies": [
-        "Davinci Resolve",
-        "Logic Pro",
-        "Traitement du signal analogique",
-        "Traitement numérique du signal",
-        "Mixage audio",
-        "Procreate",
-        "Photo Editing",
-        "Adobe Lightroom"
+        "ダヴィンチ・リゾルブ",
+        "アップルロジックプロ",
+        "アナログ信号処理",
+        "デジタル信号処理",
+        "オーディオミキシング",
+        "プロクリエイトアプリ",
+        "写真編集",
+        "アドビ ライトルーム"
       ]
     }
   ]

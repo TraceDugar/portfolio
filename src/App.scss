@@ -16,12 +16,15 @@ html {
 }
 
 .title-container {
-	height: 50px;
+	height: 220px;
+	text-shadow: 1px 1px 2px rgb(0, 0, 0), 0 0 1em rgb(27, 27, 27), 0 0 0.2em rgb(58, 33, 220);
+	font-size: 3rem;
+	font-weight: 700;
+	color: rgb(15, 206, 75);
 }
 
 .title-styles {
-	font-family: 'Raleway', sans-serif;
-	font-size: 250%;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 .header-icon {
@@ -34,7 +37,7 @@ header {
 	height: 520px;
 	min-height: 450px;
 	width: 100%;
-	color: goldenrod;
+	color: #226342;
 	background-size: cover;
 	-webkit-background-size: cover;
 	text-align: center;
@@ -54,11 +57,42 @@ header .nav {
 	letter-spacing: 5px;
 }
 
-.github-corner:hover .octo-arm {
-	animation:octocat-wave 1060ms ease-in-out
+header .nav a{
+	color: rgb(255, 213, 0);
 }
 
-@keyframes octocat-wave {0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}
+
+.github-corner:hover .octo-arm {
+	animation: octocat-wave 1060ms ease-in-out
+}
+
+@keyframes octocat-wave {
+
+	0%,
+	100% {
+		transform: rotate(0)
+	}
+
+	20%,
+	60% {
+		transform: rotate(-25deg)
+	}
+
+	40%,
+	80% {
+		transform: rotate(10deg)
+	}
+}
+
+@media (max-width:500px) {
+	.github-corner:hover .octo-arm {
+		animation: none
+	}
+
+	.github-corner .octo-arm {
+		animation: octocat-wave 560ms ease-in-out
+	}
+}
 
 .language-icon {
 	margin-top: 5px;
@@ -90,23 +124,23 @@ header .nav {
 
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color: #f52d2d;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
 
 header h1 {
-	font-size: 400%;
+	font-size: 300%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #00d1b5;
-	background-color: black;
+	color: #c4e9e1;
+	background-color: #5b5b5b;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 11%;
 	border-radius: 20px;
 	padding-bottom: 5px;
-	
+
 }
 
 .slider-image {
@@ -128,7 +162,7 @@ header h1 {
 }
 
 #about {
-	background: goldenrod;
+	background: #317f2e;
 	overflow: hidden;
 }
 
@@ -239,7 +273,7 @@ header h1 {
 }
 
 #resume {
-	background: #00d1b5;
+	background: #f7d1b2;
 }
 
 .experience-icon {
@@ -264,8 +298,8 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: goldenrod!important;
-	color: black;
+	background-color: #76c259 !important;
+	color: rgb(238, 0, 0);
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -361,7 +395,7 @@ header h1 {
 }
 
 #portfolio {
-	background:  #00d1b5;
+	background:#f7d1b2;
 	padding-bottom: 5%;
 }
 
@@ -391,13 +425,14 @@ header h1 {
 	.portfolio .closeButtonResponsive {
 		display: block;
 	}
+
 	.portfolio .portfolio-item {
 		margin-bottom: 30px;
 	}
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #1b1b1b;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -416,33 +451,34 @@ header h1 {
 
 .skill-icon {
 	font-size: 180%;
-	color: goldenrod;
+	color: #949494;
 	text-align: center;
 	position: relative;
 }
 
 footer {
-	background: #1F1F1F;
+	background: #1b1b1b;
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;
 	font-size: 14px;
-	color: goldenrod;
+	color: #ffffff;
 	position: relative;
 	text-align: center;
 }
 
 footer a,
 footer a:visited {
-	color: #fff;
+	color: #b1b1b1;
 }
 
 footer a:hover,
 footer a:focus {
-	color: #16ffe0;
+	color: #ffffff;
 }
 
 .social-links {
 	margin-top: 10px;
-	font-size: 22px;
+	font-size: 3.5rem;
 }
+
