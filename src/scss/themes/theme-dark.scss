@@ -3,106 +3,114 @@ body[data-theme="dark"] {
    @import '/src/scss/dark-slider.scss';
 
    .slider-tab {
-      background-color: #8C8C8C;
+      background-color: #0e0f45;
    }
 
    .title-styles {
-      color: white;
+      color: rgb(230, 166, 15);
+   }
+
+   .title-container{
+      color: #f1c01d;
    }
 
    .header-icon {
-      color: #3C342C;
-      opacity: 0.8;
+      color: #c98541;
+      opacity: 0.3;
    }
 
    .slider-image {
-      border: 5px solid #8C8C8C;
+      border: 5px solid #0e0f45;
    }
 
    .language {
-      background-color: #494949;
+      background-color: #e19a48;
    }
 
    .link-href {
-      color: white;
+      color: rgb(213, 130, 21);
    }
 
    .project-date {
-      background-color: #918e97;
-      color: white;
+      background-color: #623cb0;
+      color: rgb(242, 218, 99);
    }
 
    header {
-      background-color: #494949;
+      background-color: #989898;
       background-image: url('https://media0.giphy.com/media/rzeWnbH8Uc5Y4/giphy.gif?cid=ecf05e47wf1j0ivnwqccbiovgi0rn5tbkqzhlwnu8ejk2gu8&rid=giphy.gif&ct=g');
       h1 {
-         color: white;
+         color: #0e0f45;
       }
    }
 
    #about {
-      background-color: #7f7f7f;
+      background-color: #0e0f45;
       h1 span {
-         color: white;
+         color: #f1c01d;
       }
       .polaroid span {
-         background:  #6d6d6d;
+         background: #453387;
       }
       .card {
-         background: #6d6d6d;
-         color: white;
+         background: #453387;
+         color: #f1c01d;
       }
    }
 
    #portfolio {
-      background: #5b5b5b;
+      background:#0e0f45;
       .section-title {
-         color: white !important;
+         color: rgb(217, 132, 29) !important;
       }
       .foto div {
-         background: #6d6d6d;
+         background: #897cb9;
       }
       .project-title-settings {
-         color: white;
+         color: rgb(239, 227, 95);
       }
    }
 
    #resume {
       filter: brightness(80%);
-      background: #5b5b5b;
+      background: #0e0f45;
       .section-title {
-         color: white !important;
+         color:#f7f6ff!important;
       }
 
+      .text-black {
+         color: rgb(217, 132, 29) !important;
+       }
+
       .experience-badge {
-         background: #919191 !important;
-         color: white;
+         background: #f1c01d !important;
+         color:  #0e0f45;
       }
 
       .main-badge {
-         background: #919191 !important;
+         background: #f1831d !important;
       }
 
       .vertical-timeline-element-date {
-         color: white;
+         color: rgb(255, 255, 255);
       }
 
       .vertical-timeline-element-icon {
-         background: #919191 !important;
+         background: #eedb32 !important;
       }
       @media only screen and (max-width: 1169px) { 
          .vertical-timeline-element-date {
-            color: black;
+            color: rgb(214, 182, 227);
          }
       }
    }
 
    .modal-inside .modal-content {
-      background: #5b5b5b;
-      color: white;
+      background: #1b1d82;
+      color: rgb(238, 210, 88);
    }
 
    .close-icon {
-      color: white;
+      color: rgb(255, 128, 0);
    }
 }
