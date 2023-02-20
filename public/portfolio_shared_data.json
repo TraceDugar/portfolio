@@ -2,11 +2,11 @@
   "basic_info": {
     "name": "Trace Dugar",
     "titles": [
-      "Coding Bootcamp Student"
+      "Full Stack Software Developer"
     ],
     "social": [
       {
-        "name": "github",
+        "name": "Github",
         "url": "https://github.com/TraceDugar",
         "class": "fab fa-github"
       },
@@ -16,7 +16,7 @@
         "class": "fab fa-linkedin"
       }
     ],
-    "image": "Trace.png"
+    "image": "Trace.JPG"
   },
   "skills": {
     "icons": [
@@ -41,8 +41,23 @@
         "level": "95"
       },
       {
+        "name": "Sass",
+        "class": "devicon-sass-plain",
+        "level": "85"
+      },
+      {
         "name": "JavaScript",
         "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "MongoDb",
+        "class": "devicon-mongodb-plain",
+        "level": "90"
+      },
+      {
+        "name": "Express",
+        "class": "devicon-express-original",
         "level": "70"
       },
       {
@@ -51,24 +66,19 @@
         "level": "75"
       },
       {
-        "name": "Bootstrap",
-        "class": "devicon-bootstrap-plain",
-        "level": "85"
-      },
-      {
-        "name": "Illustrator",
-        "class": "devicon-illustrator-plain",
+        "name": "Node.js",
+        "class": "devicon-nodejs-plain",
         "level": "90"
       },
       {
-        "name": "Photoshop",
-        "class": "devicon-photoshop-plain",
-        "level": "70"
+        "name": "Postgres",
+        "class": "devicon-postgresql-plain",
+        "level": "80"
       },
       {
-        "name": "Console",
-        "class": "devicon-chrome-plain",
-        "level": "70"
+        "name": "Mysql",
+        "class": "devicon-mysql-plain",
+        "level": "90"
       }
     ]
   }

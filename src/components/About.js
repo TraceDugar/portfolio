@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-import bootIcon from "@iconify/icons-logos/bootstrap";
+import sassIcon from "@iconify/icons-logos/sass";
 import reactIcon from "@iconify/icons-logos/react";
-import  jsIcon  from '@iconify/icons-logos/javascript';
+import jsIcon from '@iconify/icons-logos/javascript';
 
 class About extends Component {
   render() {
@@ -26,12 +26,12 @@ class About extends Component {
               <div className="polaroid">
                 <span style={{ cursor: "auto" }}>
                   <img
-                    height="250px"
+                    height="285px"
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
                   <Icon
-                    icon={bootIcon}
+                    icon={sassIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon

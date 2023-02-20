@@ -1,23 +1,23 @@
 {
   "basic_info": {
-    "description_header": "Comment ça va?",
-    "description": "🙋‍♂ Bonjour, je m'appelle Trace Dugar. Je suis un ancien ingénieur du son 🔊, devenu développeur de logiciels 👨‍💻. J'ai décidé de me lancer dans le développement de logiciels en raison du besoin de développeurs de logiciels. J'ai l'impression de pouvoir apporter de bonnes idées à la table, en particulier lorsque les projets impliquent de l'audio. L'environnement idéal serait dans mon home studio, tout en faisant du développement logiciel afin de nettoyer l'audio si nécessaire. J'ai également étudié un peu le design à Loyola, et j'ai l'impression que cela aide chaque fois que je travaille sur l'interface utilisateur d'une page.Je parle très peu le français, alors parlez-moi en anglais. merci beaucoup! ✨",
+    "description_header": "こんにちは",
+    "description": "やあ！ 👋 オーディオ エンジニア 🔊 からソフトウェア開発者 👨‍💻 に転身した Trace Dugar です。私は、開発者に対する需要の高まりによってソフトウェア開発に惹かれ、それ以来、この技術に対する真の情熱を発見しました。生涯学習者として、私は常に自分のスキルセットを拡大し、新しいテクノロジーを探求しています。すっきりとしたユーザーフレンドリーなインターフェイスを作成することは、私の最優先事項の 1 つであり、誇りに思っています。このキャリアパスを追求し、それが私をどこに連れて行くかを見ることに興奮しています🚀",
       
       "section_name": {
-      "about": "À propos de moi",
-      "projects": "Projets",
-      "skills": "compétences",
-      "experience": "vivre"
+      "about": "私について",
+      "projects": "プロジェクト",
+      "skills": "スキル",
+      "experience": "経験"
     }
   },
   "projects": [
     {
-      "title": "Biscuits au saumon",
+      "title": "サーモンクッキー",
       "startDate": "2022",
-      "description": "Un site Web en cours de construction pour une entreprise internationale fictive qui vend des biscuits en forme de saumon contenant du saumon. Cela a été fait en utilisant du javascript vanille, HTML et CSS.",
+      "description": "鮭が入った鮭の形をしたクッキーを販売する架空の国際ビジネスのために構築されている Web サイト。これは、標準の JavaScript、HTML、および CSS を使用して行われました",
       "images": [
-        "images/portfolio/animal-shelter/AboutSection.png",
-        "images/portfolio/animal-shelter/SalesPage.png"
+        "images/portfolio/salmon-cookies/AboutSection.png",
+        "images/portfolio/salmon-cookies/SalesPage.png"
       ],
       "url": "https://github.com/TraceDugar/cookie-stand",
       "technologies": [
@@ -36,11 +36,11 @@
       ]
     },
     {
-      "title": "Canard étrange",
+      "title": "オッドダック",
       "startDate": "2022",
-      "description": "La société Odd Duck Products m'a engagé pour fournir une application qui permettrait à ses clients de voter sur leurs produits préférés en fonction d'ensembles aléatoires de trois. Ils ne voulaient pas de doublons ou d'articles apparaissant dos à dos afin d'atténuer les biais dans l'application.",
+      "description": "オッドダック製品アプリは、架空の会社のアプリであり、顧客が 3 つのランダムなセットに基づいてお気に入りの製品に投票できるようにします。アプリの偏りを軽減するために、重複したり、項目項目が背中合わせに表示されることを望んでいませんでした。",
       "images": [
-        "images/portfolio/photography/Odd_Duck_SS.png"
+        "images/portfolio/odd-duck/OddDuck.jpg"
       ],
       "url": "https://github.com/TraceDugar/odd-duck",
       "technologies": [
@@ -59,26 +59,52 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+      "title": "役割ベースの To Do リスト",
+      "startDate": "2023",
+      "description": "To Do アプリは、他の todo アプリに接続されているサードパーティの API に保存されている To Do アイテムを接続します。ユーザーが完了した To Do アイテムと、ページにある To Do アイテムの数を非表示にできる設定ページを備えています。ログインすると、役割ベースのアクセス制御に基づいてアクセス許可が許可されます。",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/to-do/homePage.jpg",
+        "images/portfolio/to-do/toDoSettings.jpg"
       ],
-      "url": "https://github.com",
+      "url": "https://github.com/TraceDugar/todo-app",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-react-plain",
+          "name": "React"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-express-original",
+          "name": "Express.js"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        }
+      ]
+    },
+    {
+      "title": "Virtual E-Store",
+      "startDate": "2023",
+      "description": "写真用の unsplash API と在庫用のサードパーティ API に接続された e コマース アプリ。 Redux ツールキット、Material UI、および以下にリストされているその他のテクノロジを使用します。.",
+      "images": [
+        "images/portfolio/Virtual-Estore/StoreFront.jpg",
+        "images/portfolio/Virtual-Estore/ProductDetails1.jpg",
+        "images/portfolio/Virtual-Estore/ProductDetails2.jpg",
+        "images/portfolio/Virtual-Estore/ShoppingCart1.jpg"
+      ],
+      "url": "https://github.com/TraceDugar/virtual-store",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-sass-plain",
+          "name": "Sass"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
         }
       ]
     }
