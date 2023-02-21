@@ -21,6 +21,14 @@ html {
 	font-size: 3rem;
 	font-weight: 700;
 	color: rgb(15, 206, 75);
+	padding-top: 4vh;
+}
+
+.mb-0{
+	background-color: #1b1b1b00;
+	text-shadow: 1px 1px 2px rgb(0, 0, 0), 0 0 1em rgba(70, 70, 70, 0.284), 0 0 0.2em rgb(58, 33, 220);
+	color: #e8ebe5;
+	font-size: 3.5rem;
 }
 
 .title-styles {
@@ -28,8 +36,8 @@ html {
 }
 
 .header-icon {
-	height: 150px;
-	width: 150px;
+	height: 0px;
+	width: 0px;
 }
 
 header {
