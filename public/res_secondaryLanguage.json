@@ -19,7 +19,7 @@
         "images/portfolio/salmon-cookies/AboutSection.png",
         "images/portfolio/salmon-cookies/SalesPage.png"
       ],
-      "url": "https://github.com/TraceDugar/cookie-stand",
+      "url": "https://tracedugar.github.io/cookie-stand/",
       "technologies": [
         {
           "class": "devicon-html5-plain",
@@ -42,7 +42,7 @@
       "images": [
         "images/portfolio/odd-duck/OddDuck.jpg"
       ],
-      "url": "https://github.com/TraceDugar/odd-duck",
+      "url": "https://tracedugar.github.io/odd-duck/",
       "technologies": [
         {
           "class": "devicon-html5-plain",
@@ -87,12 +87,13 @@
       "startDate": "2023",
       "description": "写真用の unsplash API と在庫用のサードパーティ API に接続された e コマース アプリ。 Redux ツールキット、Material UI、および以下にリストされているその他のテクノロジを使用します。.",
       "images": [
-        "images/portfolio/Virtual-Estore/StoreFront.jpg",
-        "images/portfolio/Virtual-Estore/ProductDetails1.jpg",
-        "images/portfolio/Virtual-Estore/ProductDetails2.jpg",
-        "images/portfolio/Virtual-Estore/ShoppingCart1.jpg"
+        "images/portfolio/Virtual-Estore/HomePage_Food.jpg",
+        "images/portfolio/Virtual-Estore/ProductDetails_1.jpg",
+        "images/portfolio/Virtual-Estore/ProductDetails_2.jpg",
+        "images/portfolio/Virtual-Estore/ProductDetails_3.jpg",
+        "images/portfolio/Virtual-Estore/Shopping_Cart.jpg"
       ],
-      "url": "https://github.com/TraceDugar/virtual-store",
+      "url": "https://virtual-store-traced.onrender.com/",
       "technologies": [
         {
           "class": "devicon-react-plain",
@@ -101,6 +102,34 @@
         {
           "class": "devicon-sass-plain",
           "name": "Sass"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        }
+      ]
+    },
+    {
+      "title": "XLRX Logistics LLC ウェブサイトの再設計",
+      "startDate": "2023",
+      "description": "XLRX Logistics の Web サイトの再設計。この Web サイトの所有者から連絡があり、サイトを完全に再構築し、カスタムのビデオ背景を追加しました。このウェブサイトがライブで使用されていることに興奮しています！",
+      "images": [
+        "images/portfolio/XLRX/XLRX_Homepage.jpg",
+        "images/portfolio/XLRX/XLRX_ServicesPage.jpg",
+        "images/portfolio/XLRX/XLRX_AboutPage.jpg",
+        "images/portfolio/XLRX/XLRX_ContactPage.jpg",
+        "images/portfolio/XLRX/XLRX_GalleryPage.jpg"
+
+      ],
+      "url": "https://www.xlrx.us/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
         },
         {
           "class": "devicon-javascript-plain",
@@ -144,21 +173,24 @@
       ]
     },
     {
-      "company": "フリーランス",
-      "title": "プロデューサー / オーディオエンジニア",
-      "years": "01.2017 - 08.2022",
+      "company": "XLRXロジスティクスLLC",
+      "title": "ソフトウェア開発者 - 請負業者",
+      "years": "03.2023 - 04.2023",
       "mainTech": [
-        "Avid Pro Tools"
+        "React.js"
       ],
       "technologies": [
-        "ダヴィンチ・リゾルブ",
-        "アップルロジックプロ",
-        "アナログ信号処理",
-        "デジタル信号処理",
-        "オーディオミキシング",
-        "プロクリエイトアプリ",
-        "写真編集",
-        "アドビ ライトルーム"
+        "HTML 5",
+        "CSS 3",
+        "Matine UI",
+        "JavaScript",
+        "Media Queries",
+        "Responsive Design",
+        "React Browser Router",
+        "Git",
+        "Github",
+        "VsCode", 
+        "Render.com"
       ]
     }
   ]
