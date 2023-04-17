@@ -18,7 +18,7 @@
           "images/portfolio/salmon-cookies/AboutSection.png",
           "images/portfolio/salmon-cookies/SalesPage.png"
         ],
-        "url": "https://github.com/TraceDugar/cookie-stand",
+        "url": "https://tracedugar.github.io/cookie-stand/",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -41,7 +41,7 @@
         "images": [
           "images/portfolio/odd-duck/OddDuck.jpg"
         ],
-        "url": "https://github.com/TraceDugar/odd-duck",
+        "url": "https://tracedugar.github.io/odd-duck/",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -60,7 +60,7 @@
       {
         "title": "Role Based To-Do List",
         "startDate": "2023",
-        "description": "To Do App connected which stores to do items in a 3rd party API, which is connected to other todo Apps. Featuring a settings page that allows the user to hide completed to do items as well as how many to do items are on the page. Login will allow permissions based on role based access controls.",
+        "description": "To Do App connected which stores to do items in a 3rd party API, which is connected to other todo Apps. Featuring a settings page that allows the user to hide completed to do items as well as how many to do items are on the page. Login will allow permissions based on role based access controls. Please use README to github to login to try out the site.",
         "images": [
           "images/portfolio/to-do/homePage.jpg",
           "images/portfolio/to-do/toDoSettings.jpg"
@@ -86,12 +86,13 @@
         "startDate": "2023",
         "description": "E-commerce app, connected to the unsplash API for photos, and a 3rd party API for the inventory. Using Redux tool-kit, Material UI as well as the other technoligies listed below. ",
         "images": [
-          "images/portfolio/Virtual-Estore/StoreFront.jpg",
-          "images/portfolio/Virtual-Estore/ProductDetails1.jpg",
-          "images/portfolio/Virtual-Estore/ProductDetails2.jpg",
-          "images/portfolio/Virtual-Estore/ShoppingCart1.jpg"
+          "images/portfolio/Virtual-Estore/HomePage_Food.jpg",
+          "images/portfolio/Virtual-Estore/ProductDetails_1.jpg",
+          "images/portfolio/Virtual-Estore/ProductDetails_2.jpg",
+          "images/portfolio/Virtual-Estore/ProductDetails_3.jpg",
+          "images/portfolio/Virtual-Estore/Shopping_Cart.jpg"
         ],
-        "url": "https://github.com/TraceDugar/virtual-store",
+        "url": "https://virtual-store-traced.onrender.com/",
         "technologies": [
           {
             "class": "devicon-react-plain",
@@ -100,6 +101,34 @@
           {
             "class": "devicon-sass-plain",
             "name": "Sass"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "XLRX Logistics LLC Website Redesign",
+        "startDate": "2023",
+        "description": "Website redesign for XLRX Logistics, I was contacted by the owners of this website and I completely rebuilt the site, as well as added a custom video background.  I am thrilled that this website is live and in use!",
+        "images": [
+          "images/portfolio/XLRX/XLRX_Homepage.jpg",
+          "images/portfolio/XLRX/XLRX_ServicesPage.jpg",
+          "images/portfolio/XLRX/XLRX_AboutPage.jpg",
+          "images/portfolio/XLRX/XLRX_ContactPage.jpg",
+          "images/portfolio/XLRX/XLRX_GalleryPage.jpg"
+
+        ],
+        "url": "https://www.xlrx.us/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           },
           {
             "class": "devicon-javascript-plain",
@@ -143,21 +172,24 @@
         ]
       },
       {
-        "company": "Freelance",
-        "title": "Producer / Audio Engineer",
-        "years": "01.2017 - 08.2022",
+        "company": "XLRX Logistics LLC",
+        "title": "Software Developer - Contractor",
+        "years": "03.2023 - 04.2023",
         "mainTech": [
-          "Avid Protools"
+          "React.js"
         ],
         "technologies": [
-          "Davinci Resolve",
-          "Logic Pro",
-          "Analog Signal Processing",
-          "Digital Sginal Processing",
-          "Audio Mixing",
-          "Procreate",
-          "Photo Editing",
-          "Adobe Lightroom"
+          "HTML 5",
+          "CSS 3",
+          "Matine UI",
+          "JavaScript",
+          "Media Queries",
+          "Responsive Design",
+          "React Browser Router",
+          "Git",
+          "Github",
+          "VsCode", 
+          "Render.com"
         ]
       }
     ]
