@@ -191,6 +191,26 @@
           "VsCode", 
           "Render.com"
         ]
+        },
+          {
+        "company": "Ethos Risk Services",
+        "title": "IT Support Technician",
+        "years": "09.2023 - Current",
+        "mainTech": [
+          "Windows OS"
+        ],
+        "technologies": [
+          "Azure AD",
+          "Office 365 Admin Center",
+          "Ring Central",
+          "Microsoft Office",
+          "Excel",
+          "Teams",
+          "Konnica Minolta Printers",
+          "IP Phones",
+          "File Conversions",
+          "Adobe Admin"
+        ]
       }
     ]
   }
