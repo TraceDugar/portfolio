@@ -192,6 +192,26 @@
         "VsCode", 
         "Render.com"
       ]
+      },
+      {
+      "company": "エソス・リスク・サービス",
+      "title": "ITサポートテクニシャン",
+      "years": "09.2023 - 現在",
+      "mainTech": [
+        "Windows OS"
+      ],
+      "technologies": [
+        "Azure AD",
+        "Office 365 Admin Center",
+        "Ring Central",
+        "Microsoft Office",
+        "Excel",
+        "Teams",
+        "Konica Minolta Printers",
+        "IP Phones",
+        "File Conversions",
+        "Adobe Admin"
+      ]
     }
   ]
 }
